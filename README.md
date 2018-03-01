@@ -4,7 +4,6 @@ Data Transformation and Feature Engineering for Microsoft's Loan Granting Contes
 
 #Data Transformation
 
-def azureml_main(dataframe1 = None, dataframe2 = None):
     
     import pandas as pd
     import numpy as np
@@ -20,7 +19,7 @@ def azureml_main(dataframe1 = None, dataframe2 = None):
     
 #Feature Engineering
 
-def azureml_main(dataframe1 = None, dataframe2 = None):
+
     
     import pandas as pdz
     import numpy as np
